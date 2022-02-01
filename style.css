@@ -17,3 +17,15 @@ body {
   padding: 50px;
   margin: 0;
 }
+
+.ladoDireito {
+  font-size: small;
+  height: 40vh;
+  width: 20vw;
+}
+
+.ladoEsquerdo {
+  font-size: medium;
+  height: 40vh;
+  width: 20vw;
+}
