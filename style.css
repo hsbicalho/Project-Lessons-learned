@@ -6,6 +6,8 @@ body {
   border: 0;
   background-color: rgb(253, 251, 251);
   font-family: "Sedgwick ave";
+  color: rgb(32, 44, 44);
+  line-height: 102%;
 }
 
 #cabecalho {
@@ -18,16 +20,28 @@ body {
   margin: 0;
 }
 
-.ladoDireito {
+.lado-direito {
   font-size: small;
   height: 40vh;
   width: 20vw;
   display: inline-block;
+  color: rgb(32, 44, 44);
+  line-height: 102%;
 }
 
-.ladoEsquerdo {
-  font-size: medium;
-  height: 40vh;
+.lado-esquerdo {
+  font-size: small;
+  height: 60vh;
   width: 20vw;
   display: inline-block;
+  color: rgb(32, 44, 44);
+  line-height: 102%;
+}
+
+#conteinerArtigo {
+  margin-top: 0;
+}
+
+#teste {
+  margin-top: 0;
 }
