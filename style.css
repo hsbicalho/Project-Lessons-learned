@@ -1,9 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave&display=swap");
+
 body {
   padding: 0;
   margin: 0;
   border: 0;
   background-color: rgb(253, 251, 251);
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Sedgwick ave";
 }
 
 #cabecalho {
