@@ -22,10 +22,12 @@ body {
   font-size: small;
   height: 40vh;
   width: 20vw;
+  display: inline-block;
 }
 
 .ladoEsquerdo {
   font-size: medium;
   height: 40vh;
   width: 20vw;
+  display: inline-block;
 }
